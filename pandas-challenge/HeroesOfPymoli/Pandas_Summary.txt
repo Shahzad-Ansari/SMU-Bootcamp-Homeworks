@@ -1,0 +1,13 @@
+Pandas HW
+
+1) from the data it is clear that a majority of purchases are made by male clients at about 84 percent,
+we could explore why this is the case and attempt to expand the market from this or we could find that 
+majority of the players in this MMORPG are male players 
+
+2) Most purchases are made by those in the age range of 20 to 24, forming the peak of a bell curve. From this 
+additional data we can surmise that this game has a large amount of male players from the age range of mid teens
+to late 20s
+
+3) The most profit accrued from one item "Final Critic" acounts for a small percentage of the total sales, even 
+the top 5 items only account for 9% of all sales. We can use this infromation to make the assumption that the sales
+accross all items are generally well spread out. 
